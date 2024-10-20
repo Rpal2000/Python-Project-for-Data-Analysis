@@ -1,0 +1,26 @@
+Project Report: Diwali Sales
+Objective:
+The project aimed to study sales data from various regions of India to identify customer behavior patterns and trends during the Diwali season. The primary focus was to use data to identify which demographics were more likely to purchase certain products, enabling targeted marketing strategies and improved inventory planning.
+
+Methodology:
+Data Cleaning & Manipulation: The dataset was preprocessed to remove any inconsistencies and missing values. This included:
+
+Handling missing values
+Removing duplicates
+Correcting data formats
+Exploratory Data:
+
+Performed using pandas, matplotlib, and seaborn libraries.
+Visualized sales trends across product categories, regions, and customer demographics.
+Evaluated the purchasing behavior of different customer groups based on age, occupation, gender, and geographical location.
+Key Insights:
+Customer Segmentation: Specific customer groups were identified that were more likely to purchase products in certain categories:
+
+Married women aged 26-35 years from Uttar Pradesh (UP), Maharashtra, and Karnataka working in IT, Healthcare, and Aviation industries were more inclined to buy products in the Food, Clothing, and Electronics categories.
+Top Selling Products:
+
+The analysis highlighted the top 10 most sold products during the Diwali season. These products belonged to the aforementioned categories (Food, Clothing, Electronics), reflecting the preferences of the identified customer group.
+Sales Improvement: By identifying the most purchased products and the key customer demographics, the sales strategy can be aligned to better meet customer demand and optimize inventory management during future sales events.
+
+Conclusion:
+Valuable insights were gained regarding the purchasing behaviors of married women in specific states and industries. These findings can be leveraged for targeted marketing efforts, promotional campaigns, and improved stock management during peak sales periods.
